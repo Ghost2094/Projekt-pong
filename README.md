@@ -1,2 +1,2 @@
 # Pong
-Приложение Pong для фритрека по курсу iOS разработка
+iOS ping-pong test project
